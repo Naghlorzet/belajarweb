@@ -1,0 +1,23 @@
+body {
+    background-color: Black;
+}
+
+
+.container-navbar {
+    background-color: Blue;
+
+
+}
+
+.ul-navbar {
+    background-color: DarkCyan;
+    width: 200px
+    height: 100px
+
+}
+
+
+.li-navbar {
+    border: 1px solid Black;
+    list-style-type: none;
+}
